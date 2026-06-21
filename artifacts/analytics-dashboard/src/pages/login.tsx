@@ -68,7 +68,7 @@ export default function Login() {
             <div className="p-3 bg-primary/10 rounded-xl mb-2">
               <BarChart3 className="w-8 h-8 text-primary" />
             </div>
-            <h1 className="text-3xl font-bold tracking-tight">COMMERCE.AI</h1>
+            <h1 className="text-3xl font-bold tracking-tight">CommerceIQ</h1>
             <p className="text-muted-foreground text-sm">
               Sign in to your analytics command center
             </p>

@@ -44,7 +44,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <div className="flex h-16 items-center px-6 border-b border-sidebar-border">
           <div className="flex items-center gap-2 font-bold text-xl text-sidebar-primary tracking-tight font-mono">
             <BarChart3 className="w-6 h-6" />
-            <span>COMMERCE.AI</span>
+            <span>CommerceIQ</span>
           </div>
         </div>
         
@@ -95,7 +95,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           <Button variant="ghost" size="icon" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
             <Menu className="w-6 h-6" />
           </Button>
-          <span className="ml-4 font-bold font-mono text-primary">COMMERCE.AI</span>
+          <span className="ml-4 font-bold font-mono text-primary">CommerceIQ</span>
         </header>
 
         {/* Page Content */}

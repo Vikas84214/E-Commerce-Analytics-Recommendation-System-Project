@@ -1,4 +1,4 @@
-# Commerce.AI — E-Commerce Analytics & Recommendation System
+# CommerceIQ — E-Commerce Analytics & Recommendation System
 
 An AI-powered e-commerce analytics platform that helps businesses analyze customer behavior, track sales performance, predict future trends, and recommend products to customers.
 
